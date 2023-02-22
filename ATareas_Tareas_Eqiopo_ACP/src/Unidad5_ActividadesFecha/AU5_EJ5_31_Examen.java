@@ -19,7 +19,7 @@ public class AU5_EJ5_31_Examen {
 {"Aumento de la temperatura de la Tierra", "Aumento de la humedad de la Tierra", "Aumento de la presión atmosférica", "Aumento del oxígeno en la atmósfera"},
 {"Emisiones de gases de efecto invernadero", "La actividad solar", "Los volcanes", "El viento solar"},
 {"Derretimiento de los glaciares", "Aumento del nivel del mar", "Cambios en los patrones climáticos", "Todas las anteriores"},
- {"Usar más energía renovable", "Conducir menos", "Comprar productos locales", "Todas las anteriores"},
+ {"Usar mas energia renovable", "Conducir menos", "Comprar productos locales", "Todas las anteriores"},
 {"1-2 °C", "3-4 °C", "5-6 °C", "7-8 °C"}
         };  
         int[] respuestasCorrectas = {1, 1, 4, 4, 2};
