@@ -89,14 +89,3 @@ public class Triangulo {
     	return area; 
     }
 }
-
-   
-
-
-
-
-
-
-
-
-
